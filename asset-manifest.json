@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cruze007/Restaurant/static/css/main.0e09a94c.css",
-    "main.js": "/cruze007/Restaurant/static/js/main.12825449.js",
-    "index.html": "/cruze007/Restaurant/index.html",
-    "main.0e09a94c.css.map": "/cruze007/Restaurant/static/css/main.0e09a94c.css.map",
-    "main.12825449.js.map": "/cruze007/Restaurant/static/js/main.12825449.js.map"
+    "main.css": "/Restaurant/static/css/main.0e09a94c.css",
+    "main.js": "/Restaurant/static/js/main.c57e9275.js",
+    "index.html": "/Restaurant/index.html",
+    "main.0e09a94c.css.map": "/Restaurant/static/css/main.0e09a94c.css.map",
+    "main.c57e9275.js.map": "/Restaurant/static/js/main.c57e9275.js.map"
   },
   "entrypoints": [
     "static/css/main.0e09a94c.css",
-    "static/js/main.12825449.js"
+    "static/js/main.c57e9275.js"
   ]
 }
