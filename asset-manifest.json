@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cruze007/Restaurant/static/css/main.0e09a94c.css",
+    "main.js": "/cruze007/Restaurant/static/js/main.12825449.js",
+    "index.html": "/cruze007/Restaurant/index.html",
+    "main.0e09a94c.css.map": "/cruze007/Restaurant/static/css/main.0e09a94c.css.map",
+    "main.12825449.js.map": "/cruze007/Restaurant/static/js/main.12825449.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e09a94c.css",
+    "static/js/main.12825449.js"
+  ]
+}
